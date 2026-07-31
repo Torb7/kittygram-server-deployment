@@ -1,0 +1,6 @@
+IP: 158.160.177.80;
+name_taski: https://zadachi.sytes.net;
+name_kittygram: https://koshaki.sytes.net;
+login: admin;
+password: 123;
+ 
